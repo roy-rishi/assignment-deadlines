@@ -13,4 +13,4 @@ scrape data from Schoology assignments and compute the submission and deadline t
 
 ## dependencies
 * pandas
-* applescript requires macOS
+* applescript requires macOS. for a slightly more sane approach, visit the Schoology api docs
