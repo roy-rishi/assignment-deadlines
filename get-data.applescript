@@ -21,7 +21,7 @@ tell application "Google Chrome"
 	end repeat
 end tell
 
--- display data as python-formatted list of dictionary
+-- display data as json list
 log "["
 repeat with i from 1 to length of assignments
     set assn to item i of assignments
