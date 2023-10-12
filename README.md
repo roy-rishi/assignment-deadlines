@@ -12,5 +12,5 @@ scrape data from Schoology assignments and compute the submission and deadline t
 * copy the exported csv in `/data/data_due-sub-name-delta.csv` into the spreadsheet editor of your choosing
 
 ## dependencies
-pandas
-applescript requires macOS
+* pandas
+* applescript requires macOS
